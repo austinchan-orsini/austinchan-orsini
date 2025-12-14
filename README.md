@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Austin!  
 👨‍🎓 Sophomore @ Boston College studying Computer Science + Math<br>📝 Interested in learning more about full stack development and AI/ML<br>🧐 Looking to meet people interested in software <br>😁 Enjoy playing chess, speedcubing, and ultimate frisbee
-
+ 
 ```python
 class Austin:
     def __init__(self):
